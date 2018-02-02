@@ -4,7 +4,9 @@ I developed a small application (Using Java) so you can view NANO price without 
 Download Link:
 https://goo.gl/iJsu3n
 
-![Preview](https://i.imgur.com/aR1HD4s.png)
+![Preview](https://i.imgur.com/VDC8WPF.png)
+
+![Preview](https://i.imgur.com/fSXkix7.png)
 
 
 feel free to donate NANO to:
