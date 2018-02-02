@@ -1,7 +1,14 @@
-# NanoPrice
-I developed a small application (Using Java) so you can view NANO price without opening any sites just from your desktop hope that will help guys, personally I will use it daily lol.
+# Nano Price Tracker Desktop Application (JAVA)
+Nano Price Desktop Application to track Nano Price (based on CoinMarketCap) .
 
-Download Link:
+# Features:
+* Refresh Price Automatically Every 5 Minutes
+* Can Open Binance and Kucoin Exchanges Links with Desired Pairs
+* You can Refresh Prices Manually 
+* Nano To USD To BTC Currency Converter
+* Showing Price in Satoshis 
+
+# Download Link (Just Run The .jar File and Enjoy) :
 https://goo.gl/iJsu3n
 
 ![Preview](https://i.imgur.com/VDC8WPF.png)
@@ -9,5 +16,5 @@ https://goo.gl/iJsu3n
 ![Preview](https://i.imgur.com/fSXkix7.png)
 
 
-feel free to donate NANO to:
+Liked the idea ? Feel free to donate NANO on this Address :
 xrb_3hp74gfrhtgg9ph61equ5wmm9pcbrj7f3zj7435gnoybwqoyjstkzi4mrioh
