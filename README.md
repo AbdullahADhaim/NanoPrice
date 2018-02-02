@@ -1,7 +1,7 @@
 # Nano Price Tracker Desktop Application (JAVA)
 Nano Price Desktop Application to track Nano Price (based on CoinMarketCap) .
 
-# Features:
+ Features:
 * Refresh Price Automatically Every 5 Minutes
 * Can Open Binance and Kucoin Exchanges Links with Desired Pairs
 * You can Refresh Prices Manually 
